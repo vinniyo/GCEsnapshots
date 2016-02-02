@@ -1,7 +1,7 @@
 package main
 
 import (
-	"authCallback"
+	"github.com/vinniyo/authCallback"
 	"fmt"
 	"log"
 	"time"
