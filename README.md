@@ -1,2 +1,2 @@
 # GCEsnapshots
-Script that does backups for Google Compute Engine Instnaces 
+Script that does backups for Google Compute Engine Instances 
